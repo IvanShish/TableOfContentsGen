@@ -9,15 +9,16 @@
 
 Нельзя пользоваться библиотеками для генерации и парсинга markdown.
 
+<p>
 Input:
 
-# # My Project # 
-# ## Idea # 
+# My Project
+## Idea
 content
-# ## Implementation # 
-# ### Step 1 # 
+## Implementation
+### Step 1
 content
-# ### Step 2 # 
+### Step 2
 content
 Output:
 
@@ -27,11 +28,12 @@ Output:
         1. [Step 1](#step-1)
         2. [Step 2](#step-2)
 
-# # My Project # 
-# ## Idea # 
+# My Project
+## Idea
 content
-# ## Implementation # 
-# ### Step 1 # 
+## Implementation
+### Step 1
 content
-# ### Step 2 # 
+### Step 2
 content
+</p>
