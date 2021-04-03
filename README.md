@@ -9,7 +9,7 @@
 
 Нельзя пользоваться библиотеками для генерации и парсинга markdown.
 
-<code>
+```
 Input:
 
 # My Project
@@ -36,4 +36,4 @@ content
 content
 ### Step 2
 content
-</code>
+```
